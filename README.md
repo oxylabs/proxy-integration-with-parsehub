@@ -71,17 +71,17 @@ Specify the following if you purchased [Dedicated Datacenter Proxies](https://ox
 
 For Self-Service Dedicated Datacenter Proxies, the port indicates the sequential number of an IP address from the acquired list. Check our [documentation](https://developers.oxylabs.io/proxies/dedicated-datacenter-proxies/self-service/proxy-list) for more details.
 
-### Shared Datacenter Proxies
+### Datacenter Proxies
 
-Here are the details for the [Shared Datacenter Proxies](https://oxylabs.io/products/datacenter-proxies/shared): 
+Here are the details for the [Datacenter Proxies](https://oxylabs.io/products/datacenter-proxies/shared): 
 
 **Proxy type**: `HTTP`
 
-**IP/Host**: `dc.pr.oxylabs.io`
+**IP/Host**: `dc.oxylabs.io`
 
-**Port**: `10000`
+**Port**: `8000`
 
-You can also use a country-specific entry. For example, entering dc.ca-pr.oxylabs.io under **IP/Host** and `34000` under **Port** will acquire a Canadian exit node. Please refer to our [documentation](https://developers.oxylabs.io/proxies/shared-datacenter-proxies/select-country) for a complete list of country-specific entry nodes.
+You can also use a country-specific entry. For example, if you want to rotate United States proxy pool only, use rotating port 8000 together with a parameter country-US in your username: Please refer to our [documentation](https://developers.oxylabs.io/products/proxies/datacenter-proxies/select-country) for a complete list of country-specific entry nodes.
 
 If you’re using a Proxy Rotator, put `clientname.oxylabs.io` in the `HTTP` Proxy field and `60000` in the **Port field**. Click **OK** to save the settings.
 
