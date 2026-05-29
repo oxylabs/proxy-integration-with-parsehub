@@ -8,7 +8,7 @@
     - [Residential Proxies](residential-proxies)
     - [Enterprise Dedicated Datacenter Proxies](enterprise-dedicated-datacenter-proxies)
     - [Self-Service Dedicated Datacenter Proxies](self-service-dedicated-datacenter-proxies)
-    - [Shared Datacenter Proxies](shared-datacenter-proxies)
+    - [Datacenter Proxies](datacenter-proxies)
  - [Adding custom proxies to your Parsehub account](adding-custom-proxies-to-your-parsehub-account)
    
 [ParseHub](https://www.parsehub.com/) is a convenient low-cost tool for scraping public data from websites. It allows users to extract information to easy-to-read spreadsheets or APIs. In this guide, we'll demonstrate how to integrate ParseHub with Oxylabs proxies and get the best out of this tool. 
