@@ -15,7 +15,7 @@
 
 ## How to integrate Oxylabs’ proxies with ParseHub
 
-Settings configuration in ParseHub is a pretty straightforward process. Before getting started, visit Oxylabs [dashboard](https://dashboard.oxylabs.io/en/) and add [your IP address](https://whatismyipaddress.com/) to the whitelist under [Residential Proxies](https://oxylabs.io/products/residential-proxy-pool) > Whitelist. If you haven’t created your user yet, do that in the Residential Proxies > Users section as well. You may need your user credentials for authentication in ParseHub later on. 
+Settings configuration in ParseHub is a pretty straightforward process. Before getting started, visit Oxylabs [dashboard](https://dashboard.oxylabs.io/en/) and add [your IP address](https://oxylabs.io/what-is-my-ip/) to the whitelist under [Residential Proxies](https://oxylabs.io/products/residential-proxy-pool) > Whitelist. If you haven’t created your user yet, do that in the Residential Proxies > Users section as well. You may need your user credentials for authentication in ParseHub later on. 
 
 For [Datacenter Proxies](https://oxylabs.io/products/datacenter-proxies) you should note that the port may be changing due to various reasons, such as Proxy Rotator,  SOCKS connection, using Proxies via whitelist etc. therefore see our Datacenter Proxy documentation for more information. Then, follow the steps below: 
 
