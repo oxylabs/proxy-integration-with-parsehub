@@ -43,7 +43,7 @@ For [Datacenter Proxies](https://oxylabs.io/products/datacenter-proxies) you sho
 
 **Port**: `7777` 
 
-You can also use country-specific entries. For example, entering ie-pr.oxylabs.io under **IP/Host** and `25000` under **Port** will acquire an Irish exit node. Please refer to our [documentation](https://developers.oxylabs.io/proxies/residential-proxies/country-specific-entry-nodes) for a complete list of country-specific entry nodes or if you need a [sticky session](https://developers.oxylabs.io/proxies/residential-proxies/session-control/sticky-proxy-entry-nodes).
+You can also use country-specific entries. For example, entering ie-pr.oxylabs.io under **IP/Host** and `25000` under **Port** will acquire an Irish exit node. Please refer to our [documentation](https://developers.oxylabs.io/products/proxies/residential-proxies/location-settings/select-country) for a complete list of country-specific entry nodes or if you need a [sticky session](https://developers.oxylabs.io/proxies/residential-proxies/session-control/sticky-proxy-entry-nodes).
 
 8.1. Above is an example of how Residential Proxies can be integrated. For Datacenter proxies, there is only a minor change.
 
